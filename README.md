@@ -25,7 +25,7 @@ Regards faizii 😊
 How to use 
 
 Step 1.Just execute setup.sh with root permission.
-Step 2.open termux and type "tsu" without quote.
+Step 2.open termux and type "sudo run" without quote.
 Step 3.paste the ip address of server.
 Step 4.paste the port of server.
 Done attack started 
