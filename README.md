@@ -1,6 +1,6 @@
 # Pubg-freeze
 
-Hello! there, i am Faizan Quazi an Indian Ethical Hacker, I've found a bug in pubg in-game server
+Hello! there, i am Faizan Quazi an bug bounty hunter, I've found a bug in pubg in-game server
 
 ,Here is the detailed explanation how to exploit these bug
 
