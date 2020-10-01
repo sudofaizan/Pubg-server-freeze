@@ -29,7 +29,7 @@ Regards faizii 😊
 2.Root Access
 
 
-3.You need to install Sudo in termux (pkg install Sudo)
+3.You need to install Sudo in termux. (pkg install sudo)
 
 # How to use 
 
