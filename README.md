@@ -22,14 +22,21 @@ Thank you!
 
 Regards faizii 😊
 
-How to use 
+#Requirements
+1. Termux 
+2. Root Access
+3. You need to install Sudo in termux
 
+#How to use 
  Download s.sh from here
 And termux from playstore
 After download open termux 
 Type bash 'program location.sh'
 If it give error then type 
 sudo bash 'program location.sh'
-Without quote
+Without quote.
+
+#Note :
+This is Only For Educational Perpose. I am Not responsible for any Illegal activities.
 
  
