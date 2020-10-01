@@ -22,7 +22,12 @@ Thank you!
 
 Regards faizii 😊
 
-How to use 
+# Recruitments
+1.Termux
+2.Root Access
+3.You need to install Sudo in termux (pkg install Sudo)
+
+# How to use 
 
  Download s.sh from here
 And termux from playstore
@@ -32,4 +37,6 @@ If it give error then type
 sudo bash 'program location.sh'
 Without quote
 
+# Note :
+This is only for educational purposes. I am not responsible for any type illegal activities.
  
