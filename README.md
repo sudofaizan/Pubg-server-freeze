@@ -24,7 +24,11 @@ Regards faizii 😊
 
 # Recruitments
 1.Termux
+
+
 2.Root Access
+
+
 3.You need to install Sudo in termux (pkg install Sudo)
 
 # How to use 
